@@ -1,4 +1,5 @@
 # carapace
+# By Mudassir Alam
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/carapace-sh/carapace)](https://pkg.go.dev/github.com/carapace-sh/carapace)
 [![documentation](https://img.shields.io/badge/&zwnj;-documentation-blue?logo=gitbook)](https://carapace-sh.github.io/carapace/)
